@@ -550,4 +550,5 @@ ashita.events.register('load', 'load_cb', function ()
     print(chat.header(addon.name):append(chat.message('Emotes addon loaded!')));
     print(chat.header(addon.name):append(chat.message('Use /emotes, /em, or the on screen button to toggle.')));
     print(chat.header(addon.name):append(chat.message('/emotes help - Show all commands')));
+	    print(chat.header(addon.name):append(chat.message('Ctrl click to move the toggle button')));
 end);
