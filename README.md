@@ -6,4 +6,4 @@ This addons has 2 elements.
 2) The primary menu is a list of emotes with 3 tabs
 
 ## Screenshot
-![Alt text](/Media/screenshot.png?raw=true)
+![Alt text](/Media/Screenshot.png?raw=true)
