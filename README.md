@@ -13,6 +13,9 @@ This addons has 2 elements.
 Ctrl click to move the toggle button
 
 /emotes or /em - Toggle the emotes window
+
 /emotes showbutton - Show the toggle button
+
 /emotes hidebutton - Hide the toggle button
+
 /emotes scale <number> - Set global scale (e.g., /emotes scale 1.5)
